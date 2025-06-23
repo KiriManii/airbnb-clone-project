@@ -68,3 +68,21 @@ Identifying design properties from mockups is essential because it:
 - **Maintains brand identity** through proper color and typography usage
 - **Improves user experience** with familiar and predictable design patterns
 - **Facilitates team collaboration** by giving developers clear guidelines
+
+## Project Roles and Responsibilities
+
+### Team Structure
+Our project follows an agile development approach with clearly defined roles to ensure efficient collaboration and delivery.
+
+| Role | Key Responsibilities | Contribution to Project Success |
+|------|---------------------|--------------------------------|
+| **Project Manager** | • Oversees project timeline and milestones<br>• Coordinates between team members<br>• Manages project deliverables and deadlines<br>• Facilitates communication | Ensures project stays on track and team works cohesively |
+| **Frontend Developers** | • Implements UI components and user interfaces<br>• Ensures responsive design across devices<br>• Integrates with backend APIs<br>• Optimizes user experience | Creates the visual and interactive elements users experience |
+| **Backend Developers** | • Builds and maintains server-side APIs<br>• Manages database design and operations<br>• Implements business logic and data processing<br>• Ensures security and performance | Provides the foundation and functionality that powers the application |
+| **Designers** | • Creates visual mockups and wireframes<br>• Maintains design system and style guide<br>• Ensures consistent user experience<br>• Conducts user research and testing | Shapes how users interact with and perceive the application |
+| **QA/Testers** | • Writes comprehensive test cases<br>• Performs manual and automated testing<br>• Reports and tracks bugs<br>• Ensures quality standards | Maintains application reliability and user satisfaction |
+| **DevOps Engineers** | • Manages deployment and server infrastructure<br>• Sets up CI/CD pipelines<br>• Monitors application performance<br>• Handles scalability and security | Ensures smooth deployment and reliable operation |
+| **Product Owner** | • Defines project requirements and features<br>• Prioritizes development tasks<br>• Represents stakeholder interests<br>• Makes strategic decisions | Guides project direction and ensures business value |
+| **Scrum Master** | • Facilitates agile development processes<br>• Removes blockers and obstacles<br>• Organizes meetings and ceremonies<br>• Coaches team in agile practices | Enables team efficiency and continuous improvement |
+
+
