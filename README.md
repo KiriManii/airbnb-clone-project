@@ -46,3 +46,25 @@ A well-designed booking system is crucial for success because it:
 - **Improves customer satisfaction** through clear navigation and responsive design
 - **Builds trust** with professional, polished interfaces
 - **Enhances accessibility** for users with different needs and devices
+
+### Design Specifications
+
+#### Color Styles
+- **Primary:** #00A699 (Teal green - seen in sign-up button)
+- **Secondary:** #FF5A5F (Airbnb's signature coral/red)
+- **Background:** #FFFFFF (Clean white background)
+- **Text Primary:** #222222 (Dark gray for main text)
+- **Text Secondary:** #717171 (Light gray for secondary text)
+
+#### Typography
+- **Primary Font:** Circular, Medium (500), 16px - Used for body text and main content
+- **Headings:** Circular, Bold (700), 24px-32px - Used for page titles and section headers
+- **Secondary Text:** Circular, Book (400), 14px - Used for captions and supporting information
+
+#### Importance of Design Properties
+Identifying design properties from mockups is essential because it:
+- **Ensures consistency** across all pages and components
+- **Speeds up development** by providing clear specifications
+- **Maintains brand identity** through proper color and typography usage
+- **Improves user experience** with familiar and predictable design patterns
+- **Facilitates team collaboration** by giving developers clear guidelines
