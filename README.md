@@ -85,4 +85,49 @@ Our project follows an agile development approach with clearly defined roles to 
 | **Product Owner** | • Defines project requirements and features<br>• Prioritizes development tasks<br>• Represents stakeholder interests<br>• Makes strategic decisions | Guides project direction and ensures business value |
 | **Scrum Master** | • Facilitates agile development processes<br>• Removes blockers and obstacles<br>• Organizes meetings and ceremonies<br>• Coaches team in agile practices | Enables team efficiency and continuous improvement |
 
+## UI Component Patterns
+
+### Component Architecture Overview
+Our application will use a modular, reusable component structure to ensure consistency and maintainability across the platform.
+
+### Planned Components
+
+#### 1. Header/Navbar Component
+- **Logo:** Brand logo in top-left
+- **Navigation Menu:** Category tabs for property types
+- **Search Functionality:** Location search with filters
+- **User Actions:** Sign up/login buttons
+
+#### 2. Hero Section Component
+- **Background Image:** Large scenic property image
+- **Call-to-Action:** "Find your favorite place here!" overlay text
+- **Search Integration:** Prominent search bar with location input
+
+#### 3. Property Card Component
+- **Property Image:** High-quality photos with favorites heart icon
+- **Property Details:** Title, location, rating stars, price per night
+- **Grid Layout:** Responsive card layout for listings display
+
+#### 4. Property Detail Component (Detail Page)
+- **Image Gallery:** Multiple property photos with navigation
+- **Property Information:** Detailed description, amenities, rules
+- **Booking Form:** Date selection, guest count, price calculation
+- **Reviews Section:** Guest ratings and comments
+
+#### 5. Checkout Component
+- **Booking Summary:** Property details, dates, total cost
+- **Payment Form:** Guest information and payment processing
+- **Confirmation:** Booking success and details display
+
+#### 6. Footer Component
+- **Links Sections:** Support, community, hosting, company info
+- **Legal Information:** Terms, privacy, copyright notices
+
+### Component Design Principles
+- **Reusability:** Each component can be used across multiple pages
+- **Consistency:** Uniform styling and behavior patterns
+- **Accessibility:** Proper semantic HTML and ARIA labels
+- **Responsiveness:** Mobile-first design approach
+- **Modularity:** Independent components that can be easily maintained and updated
+
 
